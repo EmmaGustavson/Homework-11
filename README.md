@@ -6,7 +6,9 @@ ___
 Analyzing how the growth of IoT utilization is affecting the healthcare industry both positive and negative and possible mitigations that may be employed to prevent future threats. 
 ---
 **Reproduce This**
+
 **No Docker**
+
 Go into SRC and hit the link. Copy data from 'data' file into website. 
 **What you should see** 
 An output graph the same as below. 
