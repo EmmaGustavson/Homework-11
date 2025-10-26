@@ -4,3 +4,6 @@ ___
 **Project Synopsis**:
 ---
 Analyzing how the growth of IoT utilization is affecting the healthcare industry both positive and negative and possible mitigations that may be employed to prevent future threats. 
+---
+**Dummy Dataset**
+![A fabricated graph listing IoT attacks on fake hospital with data range from year 2015 to 2021](Chart)
