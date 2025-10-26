@@ -10,7 +10,9 @@ Analyzing how the growth of IoT utilization is affecting the healthcare industry
 **No Docker**
 
 Go into SRC and hit the link. Copy data from 'data' file into website. 
+
 **What you should see** 
+
 An output graph the same as below. 
 ---
 **Dummy Dataset**
