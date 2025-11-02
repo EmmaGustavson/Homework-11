@@ -16,4 +16,4 @@ go into SRC and hit the link. Copy data from 'data' file into website.
 **What you should see**  
 ---
 
-![A fabricated graph listing IoT attacks on fake hospital with data range from year 2015 to 2021](doc/Chart)
+![A fabricated graph listing IoT attacks on fake hospital with data range from year 2015 to 2021](doc/Chart.png)
