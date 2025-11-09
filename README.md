@@ -20,4 +20,4 @@ go into SRC and hit the link. Copy data from 'data' file into website.
 ---
 Standard Note
 ---
-Crosswalk File (Doc): https://docs.google.com/document/d/1yCvFj5ANFGvxtgh96Bij2pFTJgOlLJfD9iQazlUadv4/edit?usp=sharing
+Crosswalk File (Doc): https://1drv.ms/w/c/6e9c9f76b047a7f2/EUr3BpCTV3FEt2kPqwnCHLkBB89AUInvXRT5EPUDJYjqnQ?e=HCFmL9
