@@ -17,3 +17,7 @@ go into SRC and hit the link. Copy data from 'data' file into website.
 ---
 
 ![A fabricated graph listing IoT attacks on fake hospital with data range from year 2015 to 2021](doc/Chart.png)
+---
+Standard Note
+---
+Crosswalk File (Doc): https://docs.google.com/document/d/1yCvFj5ANFGvxtgh96Bij2pFTJgOlLJfD9iQazlUadv4/edit?usp=sharing
